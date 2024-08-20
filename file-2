@@ -1,0 +1,12 @@
+this is my practice of git 
+first there are two type of version control system 
+version control system = software configuration management.
+git if very fast 
+command of git 
+git clone to copy form remote to local 
+git status to check the status
+git add. used to convert into stagging 
+git commit to cobnvert into local
+git push to transfer into remote we use push
+git pull  to tranfer into local
+git log check the staus who did what we use git clone.
